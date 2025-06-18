@@ -1,2 +1,2 @@
 # dashboard_desafio_dio
-criar um dashboard de vendas, com foco na organização e visualização de dados
+Criar um dashboard de vendas, com foco na organização e visualização de dados. Utilizando dados fictícios de uma vendedora de jogos, este modelo pode ser usado para demonstrar uma situação relacional provocada por uma pergunta de negócio. Através da criação de tabelas dinâmicas, e lhes dando nomes específicos, é possível firmar uma conexão destas com uma segmentação de dados, que, por sua vez, possibilita a geração de gráficos responsivos. Alem disso, pode-se exibir "big numbers", igualando o valor de uma célula distinta ao resultado do cálculo realizado (que vem a ser o próprio big number) para, assim, usar uma como valor de referência para uma máscara no dashboard. 
